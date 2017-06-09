@@ -1,0 +1,8 @@
+title: Survivingdke
+description: A survival guide to the Department of Knowledge Engineering at Maastricht University
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
