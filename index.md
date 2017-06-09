@@ -80,6 +80,10 @@ Secret entrance is the studded brown door, walk until you see a downwards stairc
 * PDF/Epubs of books and articles you legally own can be easily obtained from: <br/>
 	http://gen.lib.rus.ec/
 	_(All sorts of literature, including comics etc)_
+    Also see:
+    * https://en.m.wikipedia.org/wiki/Sci-Hub
+    * https://en.m.wikipedia.org/wiki/Library_Genesis
+    * https://en.m.wikipedia.org/wiki/Library.nu
 * Get a Incognito membership, it pays itself back after the first 2 booksales.
 * Check with your professor whether the literature has changed recently. If not, get it second hand from Facebook, or use your social skills.
 * Check the library several weeks before the start of the actual course for free. You can extend up to 10 times without having to spend any money.
