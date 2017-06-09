@@ -15,27 +15,31 @@ This guide was composed by several students from DKE.
 #### Dinner
 Decent, not too expensive (by Maastricht standards)	
 
-* [General] Cato-by-Cato. (near library)
-* [General, varying quality] Mensa in Economy Faculty building. (Use your UM card for extra discount)
-* [General] Preuverij @ Kakeberg 6 (near DKE)
-* [Pizza with group] Donatello's @ Tongersestraat 30 (near DKE)
-* [Vietnamese] Saigon Cuisine @ Boschstraat 113 (near Market) 
-* Takeout, Grillroom Paru has a permanent 5€ deal on pizza's. (Some are better than others)
+| Type  | Location | Where | Price |
+| --- | --- | --- | --- |
+| General | Cato-by-Cato  | Near Library | € |
+| General | Mensa  | Near Economy Faculty | € (Use UM card) |
+| Dinner | Preuverij | Kakeberg 6 (Near SSC) | €€ |
+| Pizza with group  | Donatello's | Tongersestraat 30 (Near DKE) | €€ |
+| Vietnamese  | Saigon Cuisine |  Boschstraat 113 (near Market)  | €€ |
+| Takeout Grill  | Paru |     | € (Special 5€ deal on pizza) |
 
 #### Lunch / Breakfast
 
-* Cafetaria at ToneelAcademie. (next to DKE)
-		https://www.google.nl/maps/@50.8464853,5.6876115,3a,75y,153.08h,71.06t/data=!3m6!1e1!3m4!1sQeQkli54H0s6iC9QasWPnA!2e0!7i13312!8i6656?hl=en
+| Type  | Location | Where | Price |
+| --- | --- | --- | --- |
+| General | Cato-by-Cato  | Near Library | € |
+| General | Cafetaria ToneelAcademi | Next to DKE (\*) | € |
+| Sandwich  | Delibelge | Near DKE | €€ |
+| Breakfast  | HEMA |  Centre of Town  | €€ |
 
-Secret entrance is the studded brown door, walk until you see a downwards staircase on your left, follow it down until you get to the cafetaria.
+*) Secret entrance is the studded brown door, walk until you see a downwards staircase on your left, follow it down until you get to the cafetaria. See: https://tinyurl.com/yb3ggrj3 
 
 		Protip: After a hangover, order eggs on bread + ham,cheese and a freshly pressed glass  of juice. 
-        Breakfast of kings for ~4€.
+        	Breakfast of kings for ~4€.
 		(They have filter coffee & sandwiches as well)
-        
-* Law Faculty: sandwiches & lunch
-* HEMA (centre of town) for a cheap breakfast.
-* Incognito serves coffee from time to time. (Check with members)
+
+Also Incognito serves coffee from time to time. (Check with members)
         
 ### Cooking
 
