@@ -15,6 +15,7 @@ This guide was composed by several students from DKE.
 #### Dinner
 Decent, not too expensive (by Maastricht standards)	
 
+* [General] Cato-by-Cato. (near library)
 * [General, varying quality] Mensa in Economy Faculty building. (Use your UM card for extra discount)
 * [General] Preuverij @ Kakeberg 6 (near DKE)
 * [Pizza with group] Donatello's @ Tongersestraat 30 (near DKE)
