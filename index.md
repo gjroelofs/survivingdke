@@ -19,6 +19,7 @@ Decent, not too expensive (by Maastricht standards)
 | --- | --- | --- | --- |
 | General | Cato-by-Cato  | Near Library | € |
 | General | Mensa  | Near Economy Faculty | € (Use UM card) |
+| Burrito  | With love burrito | Markt | €€ |
 | Dinner | Preuverij | Kakeberg 6 (Near SSC) | €€ |
 | Pizza with group  | Donatello's | Tongersestraat 30 (Near DKE) | €€ |
 | Vietnamese  | Saigon Cuisine |  Boschstraat 113 (near Market)  | €€ |
